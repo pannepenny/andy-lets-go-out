@@ -34,3 +34,6 @@ https://www.pubnub.com/blog/2014-11-18-power-a-realtime-voting-app-with-live-res
 
 
 https://www.youtube.com/watch?v=F-k5gwz_91o - this teach you how to start an android app
+
+
+http://www.androidauthority.com/use-remote-web-api-within-android-app-617869/ -> remote web api
