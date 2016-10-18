@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=TDU6B687NdE&index=1&list=PLF8GtcsZyHcCeMb1FhGKu-
 real time voting app
 
 https://www.pubnub.com/blog/2014-11-18-power-a-realtime-voting-app-with-live-results-using-d3js/
+
+
+https://www.youtube.com/watch?v=F-k5gwz_91o - this teach you how to start an android app
