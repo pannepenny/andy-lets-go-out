@@ -23,3 +23,11 @@ http://www.uandblog.com/How-to-Create-Chat-Application-in-Android-Studio
 
 this is the best video
 https://www.youtube.com/watch?v=TDU6B687NdE&index=1&list=PLF8GtcsZyHcCeMb1FhGKu-SdXkRlK4J00
+
+
+
+
+
+real time voting app
+
+https://www.pubnub.com/blog/2014-11-18-power-a-realtime-voting-app-with-live-results-using-d3js/
